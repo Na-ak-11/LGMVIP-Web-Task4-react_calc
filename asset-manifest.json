@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/LGMVIP-Web-Task4-react_calc/static/css/main.86b93927.css",
+    "main.js": "/LGMVIP-Web-Task4-react_calc/static/js/main.a93c5038.js",
+    "index.html": "/LGMVIP-Web-Task4-react_calc/index.html",
+    "main.86b93927.css.map": "/LGMVIP-Web-Task4-react_calc/static/css/main.86b93927.css.map",
+    "main.a93c5038.js.map": "/LGMVIP-Web-Task4-react_calc/static/js/main.a93c5038.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.86b93927.css",
+    "static/js/main.a93c5038.js"
+  ]
+}
